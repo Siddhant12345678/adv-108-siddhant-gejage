@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    font-family: 'Mont-Heavy';
+    background-image: url(backgroundop.png);
+    background-position: center;
+    background-size: cover;
+}
+p {
+    color:crimson;
+}
+@font-face {
+    font-family: 'Mont-Heavy';
+    src: url(Mont-HeavyDEMO.otf);
+}
+h3,h4{
+    padding-right: 500;
+    color: aliceblue;
+}
+.footer {
+    color:blueviolet;
+    padding-top: 300;
+}
+h4{
+    color: aqua;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
